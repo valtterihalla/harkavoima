@@ -1,0 +1,2 @@
+# harkavoima
+Tiedotuskeskus Härkätien Tuulivoimateollusuusalueesta

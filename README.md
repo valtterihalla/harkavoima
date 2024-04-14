@@ -1,2 +1,1 @@
-# harkavoima
-Tiedotuskeskus Härkätien Tuulivoimateollusuusalueesta
+![](./assets/images/Hero.png)
